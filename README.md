@@ -12,4 +12,4 @@ CCUS Projects: Although North American CCUS projects have significantly increase
 
 Conclusions: The presentation emphasizes the urgent need to scale up CCUS projects and improve technologies to meet climate goals. Without aggressive action, achieving the Paris Agreement’s 1.5°C global warming limit will remain out of reach.
 
-# We have attached our code, presentation with voice, and power Bi dashboard for the datathon project. Check them out and give you feedback at sarupa@ualberta.ca. Thank you
+# We have attached our code, presentation with voice, and power Bi dashboard for the datathon project. Check them out and give your feedback at sarupa@ualberta.ca. Thank you
