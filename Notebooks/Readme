@@ -1,1 +1,31 @@
+# CO2 Emissions Prediction Datathon (SPE 2024)
+
+This repository contains code and analysis for predicting CO2 emissions as part of the 2024 SPE/Untapped Energy CCUS and Carbon Capture Datathon. The project focuses on analyzing historical and forecasted emissions for the USA and Canada and comparing them against targets aligned with the Paris Agreement.
+
+## Project Overview
+The goal is to model emissions trends, highlight gaps between forecasted and target values for 2050, and provide visualizations that show these differences.
+
+## Data Sources
+1. **Our World in Data CO2 Dataset**  
+   Source: https://github.com/owid/co2-data
+
+2. **Climate Action Tracker**  
+   Source: https://climateactiontracker.org/countries/usa/
+
+## Methodology
+- **Data Cleaning and Preparation**: Data for the USA and Canada is cleaned and prepared for analysis using key features like population, GDP, and fossil fuel consumption.
+- **Exploratory Data Analysis**: Correlation analysis is performed to identify key predictors for CO2 emissions.
+- **Modeling**: Random Forest models are used to forecast CO2 emissions, and results are compared to the Paris Agreement targets.
+- **Visualization**: Custom plots show the gap between forecasted emissions and 1.5°C targets, with a focus on 2050.
+
+## Results
+The analysis highlights a significant gap between forecasted emissions and the targets, emphasizing the need for more aggressive carbon reduction policies. The visualizations clearly illustrate this gap for 2050.
+
+## Dependencies
+- Python 3.8+
+- Required libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
 
