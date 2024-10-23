@@ -10,6 +10,6 @@ CO2 Emissions Gap: A gap of 2250 million tons of CO2 per year was identified bet
 
 CCUS Projects: Although North American CCUS projects have significantly increased since 2020, the current capacity is not enough. An estimated 860 additional CCUS projects would be required to close the emissions gap.
 
-Conclusions: The presentation emphasizes the urgent need to scale up CCUS projects and improve technologies to meet climate goals. Without aggressive action, achieving the Paris Agreement’s 1.5°C global warming limit will remain out of reach.
+Conclusions: The presentation emphasizes the urgent need to scale up CCUS projects and improve technologies to meet climate goals. We provided an approximate estimate of the number of projects for immediate action to control CO2 emissions as per the Paris Agreement. Without aggressive action, achieving the Paris Agreement’s 1.5°C global warming limit will remain out of reach.
 
 # We have attached our code, presentation with voice, and power Bi dashboard for the datathon project. Check them out and give your feedback at sarupa@ualberta.ca. Thank you
