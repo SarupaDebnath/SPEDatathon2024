@@ -23,7 +23,7 @@ The analysis highlights a significant gap between forecasted emissions and the t
 
 ## Dependencies
 - Python 3.8+
-- Required libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`
+- Required libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`, `statsmodels`
 
 Install dependencies:
 ```bash
