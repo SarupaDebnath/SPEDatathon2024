@@ -1,4 +1,4 @@
-# SPEDatathon2024 : Won the 1st prize in the Datathon competition!
+# SPEDatathon2024 : Won 1st prize in the Datathon competition!
 # Project Goal: To determine if current CCUS projects are sufficient to meet future carbon reduction targets, particularly the Paris Agreement goals for 2050 for North America.
 
 Data Analysis: Over 10,000 data rows were analyzed from 4 datasets related to CO2 emissions and CCUS projects, with feature engineering and time-series models (e.g., SARIMA) used to predict emissions.
